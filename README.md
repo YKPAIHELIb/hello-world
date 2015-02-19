@@ -1,2 +1,3 @@
 # hello-world
-One more Hello world application.
+One more beautiful Hello world application.
+Ok, I'm writing some text.
